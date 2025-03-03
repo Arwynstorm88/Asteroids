@@ -1,2 +1,2 @@
-# astroids
-My Astroids Project for Boots.dev
+# asteroids
+My Asteroids Project for Boots.dev
